@@ -1,6 +1,6 @@
 # 📊 Analisis Sentimen Masyarakat Indonesia terhadap Pajak
 
-Project ini bertujuan untuk menganalisis sentimen masyarakat Indonesia terhadap kebijakan pajak berdasarkan data teks yang dikumpulkan dari berbagai sumber. Fokus utama project ini adalah pada pengolahan data teks (Natural Language Processing/NLP), preprocessing, serta penerapan model machine learning untuk klasifikasi sentimen.
+Project ini bertujuan untuk menganalisis sentimen masyarakat Indonesia terhadap kebijakan pajak berdasarkan data teks yang dikumpulkan dari tweetter. Fokus utama project ini adalah pada pengolahan data teks (Natural Language Processing/NLP), preprocessing, serta penerapan model machine learning untuk klasifikasi sentimen.
 
 ---
 
